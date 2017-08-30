@@ -1,3 +1,3 @@
-# hello-world
+# Welcome to my software portfolio!
 
-Hello, Thank you for looking at my project!
+Thank you for looking at my projects!

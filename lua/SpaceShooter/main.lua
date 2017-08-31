@@ -49,7 +49,7 @@ function enemies_controller:spawnEnemy(x, y)
 	enemy.height = 50
 	enemy.bullets = {}
 	enemy.cooldown = 20
-	enemy.speed = 1
+	enemy.speed = .75
 	table.insert(self.enemies, enemy)
 end
 

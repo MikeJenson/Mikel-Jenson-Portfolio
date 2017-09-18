@@ -1,3 +1,5 @@
+# List of files in this directory
+
 Battleship v0.1.py - Simple python battleship game - built from codecademy python course
 
 piglatin.py - Simple python project that takes a word from the user and translates it into piglatin.
